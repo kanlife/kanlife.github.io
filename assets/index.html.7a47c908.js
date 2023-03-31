@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d71fbdfc","path":"/tags/hive/","title":"Hive | Tags","lang":"en-US","frontmatter":{"title":"Hive | Tags","layout":"Tags","blog":{"type":"category","name":"Hive","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};

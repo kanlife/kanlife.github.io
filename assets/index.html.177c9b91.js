@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-0dafeb9a","path":"/tags/hbase/","title":"Hbase | Tags","lang":"en-US","frontmatter":{"title":"Hbase | Tags","layout":"Tags","blog":{"type":"category","name":"Hbase","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{a as data};
